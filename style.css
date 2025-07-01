@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+    background-image: url("y06kl0ptdne51.png");
+    background-size: contain;
+    
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: larger;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+button{
+    background-color: aqua;
+}
+button:hover{
+    background-color: blue;
+}
